@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition
+# Application definitionq   1..................."""""""
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',
+    'saima'
 ]
 
 MIDDLEWARE = [
@@ -49,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'source.urls'
+ROOT_URLCONF = 'mysite.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'source.wsgi.application'
+WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
 # Database
