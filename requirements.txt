@@ -1,7 +1,7 @@
 atomicwrites==1.2.1
 attrs==18.2.0
 behave==1.2.6
-Django==2.1.1
+Django==2.2.13
 django-behave==0.1.6
 django-filter==2.0.0
 djangorestframework==3.8.2
