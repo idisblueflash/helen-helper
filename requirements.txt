@@ -4,7 +4,7 @@ behave==1.2.6
 Django==2.1.1
 django-behave==0.1.6
 django-filter==2.0.0
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 Markdown==2.6.11
 more-itertools==4.3.0
 parse==1.8.4
