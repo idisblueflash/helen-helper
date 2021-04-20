@@ -10,7 +10,7 @@ more-itertools==4.3.0
 parse==1.8.4
 parse-type==0.4.2
 pluggy==0.7.1
-py==1.6.0
+py==1.10.0
 pytest==3.7.4
 pytz==2018.5
 selenium==3.14.0
